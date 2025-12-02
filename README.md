@@ -4,6 +4,10 @@
 <sup>1</sup>Adobe Research   <sup>2</sup>University of Rochester  
 \* Equal contribution
 
+<p align="center">
+  <a href="https://openreview.net/pdf?id=hlpRj222RG">📄 Paper (OpenReview PDF)</a>
+</p> 
+
 > Official page for **PixPerfect: Seamless Latent Diffusion Local Editing with Discriminative Pixel-Space Refinement (NeurIPS 2025)**.
 
 <div align="center">
